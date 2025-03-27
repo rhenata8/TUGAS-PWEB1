@@ -1,4 +1,4 @@
-# Flower Collection & Image Slider
+# Flower Collection 
 
 ## Deskripsi
 Program ini adalah halaman web yang menampilkan koleksi bunga dengan fitur filter berdasarkan warna serta slider gambar yang dapat berpindah secara manual melalui tombol navigasi.
