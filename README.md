@@ -92,11 +92,4 @@ buttons.forEach(button => {
 document.querySelector(".all")?.click();
 ```
 
-## Kontributor
-- **Nama Developer**: [Masukkan nama Anda]
-- **GitHub**: [Masukkan tautan GitHub Anda]
-- **Email**: [Masukkan email Anda]
-
----
-Program ini dibuat untuk menampilkan koleksi bunga dengan cara yang lebih interaktif dan user-friendly. 🚀
 
